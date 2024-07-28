@@ -1,0 +1,359 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: white;
+   font-style: normal;
+   font-family: sans-serif;
+}
+.l1{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+.bi-spotify{
+    font-size: 25px;
+}
+
+.l2{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.bi-house-door-fill{
+    font-size: 25px;
+}
+.l3{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.bi-search{
+    font-size: 25px;
+    color: grey;
+}
+
+.sear{
+    color: gray;
+}
+.spo{
+    font-weight: 700;
+}
+
+.hom{
+    font-weight: 600;
+}
+
+.box1{
+    margin: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    background-color:rgb(27, 26, 26);
+    width: 320px;
+    border-radius: 10px;
+}
+
+.pluslib{
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+
+.bi-plus-lg{
+    font-size: 25px;
+}
+
+.box2{
+    margin: 10px;
+    padding: 10px;
+    padding-left: 30px;;
+    background-color:rgb(27, 26, 26);
+    width: 320px;
+    height: 370px;
+    border-radius: 10px;
+}
+.box21{
+    padding: 10px;
+    margin-left: -20px;
+    padding-left: 10px;
+    background-color: rgb(39, 37, 37);
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+.cup{
+    font-size: 15px;
+    font-weight: 600;
+}
+.its{
+    font-size: 14px;
+    font-weight: 500;   
+}
+
+.cp{
+    border: none;
+    width: 127px;
+    height: 33px;
+    border-radius: 30px;
+    font-weight: 750;
+}
+.box22{
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: -20px;
+    padding-left: 10px;
+    background-color: rgb(39, 37, 37);
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.main-container{
+    display: flex;
+}
+
+.top{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    background-color: rgb(20, 20, 20);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.signup{
+    margin-left: 700px;
+    border: none;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(20, 20, 20);  
+    color: white;
+    font-size: 15px;
+}
+.login{
+    margin-left: 5px;
+    border: none;
+    width: 100px;
+    height: 45px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.hji{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.arri{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.u1i{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.anii{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.gvi{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.devai{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.img-box{
+    display: flex;
+    gap: 25px;
+}
+
+.pop{
+    margin-left: 10px;
+}
+
+.bi-chevron-right{
+    margin-left: 20px;
+}
+.popshow{
+    display: flex;
+    gap: 700px;
+    margin-top: 25px;
+}
+
+.show{
+    font-size: 14px;
+}
+
+.name{
+    display: flex;
+    gap: 100px;
+    justify-content: start;
+    margin-left: 10px;
+}
+
+.arr{
+    margin-left: -21px;
+}
+
+.u1{
+    margin-left: -20px;
+}
+.ani{
+    margin-left: 12px;
+}
+
+.gv{
+    margin-left: 12px;
+}
+
+.ar{
+    color: gray;
+}
+
+.hjt{
+    font-weight: 700;
+}
+.arrt{
+    font-weight: 700;
+}
+.u1t{
+    font-weight: 700;
+}
+.anit{
+    font-weight: 700;
+}
+
+.gvt{
+    font-weight: 700;
+}
+.devat{
+    font-weight: 700;
+}
+
+.box3{
+    margin-top: 10px;
+    background-color: rgb(39, 37, 37);
+    border-radius: 8px;
+    height: 800px;
+}
+.p1{
+    color: gray;
+}
+.box2 .box1{
+    
+}
+
+.paiyai{
+    border-radius: 3px;
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+}
+
+.img1{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.img2{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.img3{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+.img4{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.img5{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.paiyat{
+    font-weight: 700;
+}
+.img6{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.paiyam 
+{
+    color: grey;
+}
+.img1a
+{
+    color: grey;
+}
+.img2a
+{
+    color: grey;
+}
+.img3a
+{
+    color: grey;
+}
+.img4a
+{
+    color: grey;
+}
+
+.img5a
+{
+    color: grey;
+}
+
+.img1c{
+    margin-left: -30px;
+}
+.img3c{
+    margin-left: -60px;
+}
+.img4c{
+    margin-left: -70px;
+}
+
+.img5c{
+    margin-left: -80px;
+}
+
+
+
+
